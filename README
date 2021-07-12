@@ -30,3 +30,10 @@ and for normal bugs the "jbig2dec" product.
 
 Contact the developers at the IRC channel #ghostscript at freenode.net
 or via the mailing list <gs-devel@ghostscript.com>.
+
+//-------------------------------------------------------------------------------------------
+1.下载工程进行编译。
+2.因为我们更改了jbig2的相关头文件，所以要对相应文件的代码进行更改，才可以进行debug。
+
+
+
